@@ -1,0 +1,12 @@
+.watch-container {
+      padding: 20px;
+    }
+
+    .video-player {
+      margin-bottom: 20px;
+    }
+
+    .video-details {
+      border-top: 1px solid #ccc;
+      padding-top: 20px;
+    }
